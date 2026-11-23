@@ -1,6 +1,5 @@
 # Fake News Detection
 
-![Author](https://img.shields.io/badge/Author-Ankit-blue?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-ankitanand047-black?style=for-the-badge&logo=github)
 ![Project](https://img.shields.io/badge/Project-FakeNewsDetection-success?style=for-the-badge)
 
@@ -250,8 +249,3 @@ CORS_ALLOW_ORIGINS=https://ankit-xo.github.io,http://localhost:3000,http://127.0
 - Threshold for REAL classification: `0.40` (loaded from model metadata)
 - Dataset CSV files are tracked with Git LFS
 - Render free plan may sleep after inactivity
-
-## Author
-
-**Ankit Anand**
-- Feedback email: [ankitanand.works@gmail.com](mailto:ankitanand.works@gmail.com)
