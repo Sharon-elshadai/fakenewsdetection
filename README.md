@@ -5,9 +5,6 @@
 
 A full-stack project to detect whether news content is likely **REAL** or **FAKE** using text classification and image OCR.
 
-## Live Demo
-
-- Website (GitHub Pages): `https://ankitaanand047.github.io/FakeNewsDetection/home`
 
 ## Website Screenshots
 
